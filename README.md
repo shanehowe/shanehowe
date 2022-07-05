@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @shanehowe I'm from Ireland and recently starting developing!
-- 👀 I’m currently working toward a career as a developer!
-- I’m currently learning HTML5, CSS3, JavaScript and Python3
+- 👋 Hi, I’m @shanehowe I'm a developer living in Vancouver, Canada
+- Studied CS50x
+- Working knowledge of many programming languages such as Python3, Javascript, C, C++ and SQL
+- Good knowledge if markup languages like HTML and CSS
 - I’m always looking for new projects to build to expand my knowledge
+- If you are interested in woking with me just let me know
 
 
 <!---
