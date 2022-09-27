@@ -1,12 +1,21 @@
-- 👋 Hi, I’m @shanehowe I'm a developer living in Ireland
-- Studied CS50x
-- Studying Fullstack Open as of now
-- The main languages I use are JavaScript and Python 👨‍💻
-- Good knowledge if markup languages like HTML and CSS
-- Always expanding my knowledge 📚
+
+## 🚀 About Me
+
+Hello I'm Shane Howe. I am a first year compputer science students currently studying at MTU Kerry.
+
+## 🛠 Skills
+* Python 
+* JavaScript
+* C
+* HTML5
+* CSS3
 
 
-<!---
-shanehowe/shanehowe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+## Education
+
+* Computing with Software Devlopment (current)
+* CS50x Harvards free online introduction to computer science
+* CS50P Harvards introduction to programming in Python
