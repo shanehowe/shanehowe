@@ -1,14 +1,15 @@
 
 ## 🚀 About Me
 
-Hello I'm Shane Howe. I am a first year compputer science students currently studying at MTU Kerry.
+Hello I'm Shane Howe. I am an aspiring software engineer. Currently studying computing with software development at Muntster Technological University (MTU), Kerry. I use this account mainly for personal projects that I am developing but I also have a repo for documenting what I am learning during my degree.
 
 ## 🛠 Skills
 * Python 
 * JavaScript
-* C/C++
 * HTML5
 * CSS3
+
+Currently learning C++ 👨‍💻
 
 
 
