@@ -9,7 +9,7 @@ Hello I'm Shane Howe. I am an aspiring software engineer. Currently studying com
 * HTML5
 * CSS3
 
-Currently learning C++ 👨‍💻
+Currently taking the course Nand2Tetris.
 
 
 
