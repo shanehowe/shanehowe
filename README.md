@@ -1,16 +1,11 @@
 
 ## 🚀 About Me
 
-Hello I'm Shane Howe. I am an aspiring software engineer. Currently studying computing with software development at Muntster Technological University (MTU), Kerry. I use this account mainly for personal projects that I am developing but I also have a repo for documenting what I am learning during my degree.
-
-## 🛠 Skills
+Hello I'm Shane Howe. I am an aspiring software engineer. Currently studying computing with software development at Muntster Technological University (MTU), Kerry. I use this account mainly for personal projects.
 * Python 
 * JavaScript
-* HTML5
-* CSS3
 * C (currently reading The C programming language by Brian W. Kernighan & Dennis M. Ritchie)
-
-
+* Java
 
 
 
