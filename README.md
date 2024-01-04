@@ -4,7 +4,7 @@
 Hello I'm Shane Howe. I am an aspiring software engineer. Currently studying computing with software development at Muntster Technological University (MTU), Kerry. I use this account mainly for personal projects.
 * Python 
 * JavaScript
-* C (currently reading The C programming language by Brian W. Kernighan & Dennis M. Ritchie)
+* C
 * Java
 
 
